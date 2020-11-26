@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855725597529",
+    "firebase_url": "https://memesgram-814b6.firebaseio.com",
+    "project_id": "memesgram-814b6",
+    "storage_bucket": "memesgram-814b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855725597529:android:8fb767118c1534f260e248",
+        "android_client_info": {
+          "package_name": "com.home.memesgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855725597529-iosbd6rt64h6p77hu2ap95kbmll041og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ABfYp0iySUfIpQhHszVEMD8f9DkJr_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855725597529-iosbd6rt64h6p77hu2ap95kbmll041og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
