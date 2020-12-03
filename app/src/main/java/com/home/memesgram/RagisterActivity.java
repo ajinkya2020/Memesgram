@@ -65,7 +65,7 @@ public class RagisterActivity extends AppCompatActivity {
                 if(TextUtils.isEmpty(str_username) || TextUtils.isEmpty(
                         str_fullname) || TextUtils.isEmpty(str_email) || TextUtils.isEmpty(str_password)){
 
-                    Toast.makeText(RagisterActivity.this,"All Filds are required",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(RagisterActivity.this,"All Fields are required",Toast.LENGTH_SHORT).show();
 
                 }else if(str_password.length()<6) {
                     Toast.makeText(RagisterActivity.this,"Password must have 6 characters",Toast.LENGTH_SHORT).show();

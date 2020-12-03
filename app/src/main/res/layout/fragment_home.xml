@@ -26,17 +26,11 @@
                   android:id="@+id/memesgramTile"
                   android:layout_width="wrap_content"
                   android:layout_height="wrap_content"
+                  android:layout_alignParentEnd="true"
+                  android:layout_marginEnd="170dp"
                   android:fontFamily="sans-serif"
                   android:text="MEMESGRAM"
                   android:textAlignment="center" />
-
-              <ImageView
-                  android:layout_width="wrap_content"
-                  android:layout_height="wrap_content"
-                  android:layout_alignParentEnd="true"
-                  android:layout_marginRight="10dp"
-                  android:src="@drawable/ic_inbox"
-                  />
 
 
           </RelativeLayout>
